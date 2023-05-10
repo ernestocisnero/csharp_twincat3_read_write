@@ -1,0 +1,23 @@
+# Ignore Visual Studio files
+.vs/
+.vscode/
+*.sln
+*.suo
+*.user
+*.vs/
+
+# Ignore compiled files
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+
+# Ignore NuGet packages
+packages/
+*.nupkg
+
+# Ignore log and temporary files
+logs/
+*.log
+*.tmp
